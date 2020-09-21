@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/bin/Debug/netcoreapp3.1/Calisma34-LinkedListExam.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/bin/Debug/netcoreapp3.1/Calisma34-LinkedListExam.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/bin/Debug/netcoreapp3.1/Calisma34-LinkedListExam.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/bin/Debug/netcoreapp3.1/Calisma34-LinkedListExam.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/bin/Debug/netcoreapp3.1/Calisma34-LinkedListExam.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma34-LinkedListExam/obj/Debug/netcoreapp3.1/Calisma34-LinkedListExam.genruntimeconfig.cache

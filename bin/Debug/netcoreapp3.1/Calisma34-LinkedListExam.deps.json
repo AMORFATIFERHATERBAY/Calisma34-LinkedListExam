@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calisma34-LinkedListExam/1.0.0": {
+        "runtime": {
+          "Calisma34-LinkedListExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calisma34-LinkedListExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
